@@ -1,0 +1,80 @@
+chatgpt
+
+https://chatgpt.com/share/66e5a1ea-e40c-8007-8f06-21ca0d33edd5
+
+Solana install 
+
+--------------------cmd- run as administrator
+
+
+cmd /c "curl https://release.solana.com/v1.18.18/solana-install-init-x86_64-pc-windows-msvc.exe --output C:\solana-install-tmp\solana-install-init.exe --create-dirs"
+
+C:\solana-install-tmp\solana-install-init.exe v1.18.18
+
+--------------------After done, turn off and turn on wihout run as administrator
+
+solana --version
+
+
+--------------------Git Bash
+
+export PATH="/home/Sniper/.local/share/solana/install/active_release/bin:$PATH"
+
+--------------------Rust install --Git Bash
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+select 1
+
+visual studio install
+
+Restart PC
+
+-------------------rustc and cargo install --Git Bash
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+select 1
+
+Restart PC
+
+-------------------Setting protoc
+
+https://github.com/protocolbuffers/protobuf/releases
+
+protoc-28.1-win64.zip
+
+
+download and extract--bin/protoc.exe file copy to C:\Users\Sniper\.cargo\bin
+
+test - protoc --version
+
+-------------------cargo install spl-token-cli
+
+3. Create a New Wallet
+
+-------------------solana-keygen new --outfile C:\Users\Sniper\Documents\token2.json
+
+
+BIP39 Passphrase (empty for none): Press Enter key
+
+4. Airdrop SOL on Devnet
+
+C:\Users\Administrator\Documents\Sniper\token2.json
+//// solana config set --keypair C:\Users\Sniper\Documents\token2.json
+
+solana config set --keypair E:\Solana\token.json
+
+test -- solana config get
+
+solana airdrop 2
+
+
+After generate token, please save token1.json.
+
+When generate json file --- solana-keygen new --outfile C:\Users\Sniper\.config\solana\id.json
+
+or if I already generated token1.json, 
+
+----copy token1.json C:\Users\Sniper\.config\solana\id.json
+
