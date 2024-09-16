@@ -69,6 +69,13 @@ test -- solana config get
 
 solana airdrop 2
 
+If solana airdrop 2 failed, pleae use this method.
+
+
+solana config set --url https://api.testnet.solana.com
+
+after : solana-keygen new --outfile C:\Users\Sniper\Documents\token2.json
+
 
 After generate token, please save token1.json.
 
