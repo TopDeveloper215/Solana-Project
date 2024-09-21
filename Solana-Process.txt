@@ -55,7 +55,7 @@ test - protoc --version
 
 -------------------solana-keygen new --outfile C:\Users\Sniper\Documents\token2.json
 
-
+C:\Users\Administrator\Documents\Sniper\token3.json
 BIP39 Passphrase (empty for none): Press Enter key
 
 4. Airdrop SOL on Devnet
@@ -85,3 +85,27 @@ or if I already generated token1.json,
 
 ----copy token1.json C:\Users\Sniper\.config\solana\id.json
 
+----Token transfer from token5.json to token1.json
+
+spl-token transfer 136M7PF8285ucjHqYsKCsKECTkwnMXEjtzhUdh3b7fsF 1000 6Csq4zLRto4VtSh65tHeKogE1Mi3M2u666k4Sjd9DNWN --fund-recipient
+
+
+---Get wallet address of token5.json
+
+solana-keygen pubkey token5.json
+
+----output all tokens to txt file
+
+spl-token accounts > tokens.txt
+
+----Get total number of lines
+powershell
+
+spl-token accounts | Measure-Object -Line
+
+
+VM-1 : 16469
+VM-2 : 7242
+VPS -1 : 4019
+VPS-2  : 2890
+Ajin : 1420
