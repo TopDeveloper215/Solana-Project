@@ -662,3 +662,234 @@ I think we have discussed you will pay me $1000 and $200 on Friday after making 
 [4:35 AM, 9/19/2024] Marko R: It is not easy
 [4:35 AM, 9/19/2024] +40 770 365 116: Until monday a simple site with payment integration and you can upgrade it later
 [4:36 AM, 9/19/20
+
+
+/////////
+
+
+
+[6:17 AM, 9/20/2024] +40 770 365 116: yes or no?
+[6:19 AM, 9/20/2024] +40 770 365 116: olexandra please concentrate 2 minutes and tell me if its ok like that or no so i can make him the offer today
+[6:19 AM, 9/20/2024] +40 770 365 116: i promised him he will get the offer today
+[6:32 AM, 9/20/2024] Marko R: for your work 12000?
+what do you mean by this?
+[6:33 AM, 9/20/2024] +40 770 365 116: your money for developing the coins
+[6:33 AM, 9/20/2024] Marko R: Will he pay 12000 USD after project done?
+[6:33 AM, 9/20/2024] +40 770 365 116: for the 150000 it was 5000 so for 400.000 its 12000
+[6:33 AM, 9/20/2024] +40 770 365 116: i think same in 3 steps like me
+[6:34 AM, 9/20/2024] +40 770 365 116: advance 1st installment and the rest when some sold
+[6:34 AM, 9/20/2024] +40 770 365 116: same contract but other numbers
+[6:34 AM, 9/20/2024] Marko R: AH got it
+[6:34 AM, 9/20/2024] Marko R: He wanna make 400000 coins in poly?
+[6:34 AM, 9/20/2024] +40 770 365 116: yes
+[6:35 AM, 9/20/2024] Marko R: Ah I see
+[6:35 AM, 9/20/2024] +40 770 365 116: you are still sleepy?
+[6:35 AM, 9/20/2024] Marko R: Lol
+[6:35 AM, 9/20/2024] Marko R: I am not
+[6:35 AM, 9/20/2024] Marko R: We can make 3 milestones like our contract
+[6:35 AM, 9/20/2024] +40 770 365 116: yes exactly same
+[6:36 AM, 9/20/2024] Marko R: Initial payment, middle payment after I make coins in poly and other payments after sold all
+[6:36 AM, 9/20/2024] +40 770 365 116: yes or after sold a number of coins
+[6:36 AM, 9/20/2024] Marko R: Yes , a number of portion of coins
+[6:37 AM, 9/20/2024] Marko R: Tell him, I am okay with 3    steps of payment
+[6:37 AM, 9/20/2024] +40 770 365 116: sales website 3000$?
+[6:38 AM, 9/20/2024] Marko R: Price will depend on website service details
+[6:39 AM, 9/20/2024] +40 770 365 116: the sales website needs to have wall and payment posibility and affiliate modul
+[6:39 AM, 9/20/2024] +40 770 365 116: same like mine
+[6:39 AM, 9/20/2024] Marko R: then , Okay
+[6:39 AM, 9/20/2024] +40 770 365 116: if you want i can calculate the price for the saleswebsite also on number of coins than it would be 8000 $
+[6:39 AM, 9/20/2024] Marko R: If he ask website like yours, then 3k good
+[6:40 AM, 9/20/2024] +40 770 365 116: 150.000 coins is 0.02 per coin
+[6:40 AM, 9/20/2024] +40 770 365 116: if we calculate it with 400.000 coins its 8000$
+[6:40 AM, 9/20/2024] Marko R: ok
+[6:40 AM, 9/20/2024] Marko R: Then tell him please, 
+3k website price okay
+[6:40 AM, 9/20/2024] +40 770 365 116: ok
+[6:40 AM, 9/20/2024] Marko R: and please ask him, how much he can make prepayment
+[6:41 AM, 9/20/2024] +40 770 365 116: ok
+[6:41 AM, 9/20/2024] Marko R: And when we can start ?
+[6:41 AM, 9/20/2024] Marko R: Because we are working on your project now
+[6:41 AM, 9/20/2024] +40 770 365 116: what you will do with so much money? buying clothes?
+[6:41 AM, 9/20/2024] Marko R: Sorry !
+[6:42 AM, 9/20/2024] +40 770 365 116: just kidding
+[6:42 AM, 9/20/2024] +40 770 365 116: i know ladies like shopping
+[6:42 AM, 9/20/2024] Marko R: Ok
+[6:43 AM, 9/20/2024] Marko R: Haha, then I wanna ask you why you try to make money : LOL
+[6:43 AM, 9/20/2024] +40 770 365 116: to get easier married
+😆
+[6:43 AM, 9/20/2024] Marko R: I know it would be easier
+[6:44 AM, 9/20/2024] +40 770 365 116: ok i will make the offer now and lets see
+[6:44 AM, 9/20/2024] Marko R: Okay
+[5:17 AM, 9/24/2024] +40 770 365 116: Sir, can you provide the specifications of your coins?
+[5:20 AM, 9/24/2024] +40 770 365 116: hello
+[5:20 AM, 9/24/2024] +40 770 365 116: one interested buyer is asking me that
+[6:36 AM, 9/24/2024] Marko R: There are 5  keypair JSON files. Each JSON file controls the tokens it own. In other words, without that JSON file, you cannot perform any operations such as transferring or selling tokens.
+
+If you want to see json file and 30000 tokens, I can show you.
+[6:37 AM, 9/24/2024] +40 770 365 116: i dont know about but i want to see how the buyer can buy
+[6:43 AM, 9/24/2024] Marko R: As I said before, I've generated only 30000 tokens about second milestone on contract document.
+
+To do buy token, we need to make website for sell tokens and need integrate cryptocurrency payment gateway.
+So, we can't still discuss about sell token.
+[6:44 AM, 9/24/2024] +40 770 365 116: i understand so i will tell them to wait
+[6:54 AM, 9/24/2024] Marko R: Ok
+[6:59 AM, 9/24/2024] Marko R: can you suggest to client about slack?
+[6:59 AM, 9/24/2024] +40 770 365 116: what does slack mean?
+[7:10 AM, 9/24/2024] Marko R: I will invite you in slack
+[7:10 AM, 9/24/2024] Marko R: Please share me your client mail
+Then I will invite him
+[7:12 AM, 9/24/2024] Marko R: and Please share me your email address
+[7:13 AM, 9/24/2024] +40 770 365 116: stefan3940@gmail.com
+[7:13 AM, 9/24/2024] Marko R: your client's?
+[7:14 AM, 9/24/2024] +40 770 365 116: wait i will ask him if he agree
+[7:14 AM, 9/24/2024] Marko R: Ok
+[7:14 AM, 9/24/2024] Marko R: did you install slack on your PC?
+[7:15 AM, 9/24/2024] +40 770 365 116: from where to install?
+[7:15 AM, 9/24/2024] Marko R: I have sent invitation
+[7:16 AM, 9/24/2024] Marko R: Please check your mail
+[7:19 AM, 9/24/2024] +40 770 365 116: ok i got it
+[7:19 AM, 9/24/2024] +40 770 365 116: what we can do there now?
+[7:21 AM, 9/24/2024] Marko R: we can do group chatting
+[7:22 AM, 9/24/2024] Marko R: I think we can do it in here too
+[7:22 AM, 9/24/2024] +40 770 365 116: i see
+[7:22 AM, 9/24/2024] Marko R: But for development, Slack channel is the best
+[7:22 AM, 9/24/2024] +40 770 365 116: but what we will tell to the buyer about the coin specifications?
+[7:25 AM, 9/24/2024] Marko R: Only token address isn't enough?
+[7:25 AM, 9/24/2024] +40 770 365 116: ok give me the token address and lets see what is there
+[7:25 AM, 9/24/2024] +40 770 365 116: i dont know if its enaugh but lets check
+[7:26 AM, 9/24/2024] Marko R: ok
+[7:26 AM, 9/24/2024] +40 770 365 116: when you make the token selling website you will make in future for each token another website or one website where we will sell also all future tokens?
+[7:27 AM, 9/24/2024] +40 770 365 116: i am asking because i got an idea and want to see if the idea is good or not
+[7:27 AM, 9/24/2024] Marko R: yes and we can add it one website
+[7:28 AM, 9/24/2024] +40 770 365 116: ok than we an also in future when we have already 5 or 10 different token also sell a bundle of them all together if someone wants to buy and the investor get the medium dividend from all of them ?
+[7:28 AM, 9/24/2024] Marko R: yes no problem
+[7:28 AM, 9/24/2024] +40 770 365 116: is that posible to make also that the dividend will go from all tokens from his bundle together even its different tokens?
+[7:29 AM, 9/24/2024] +40 770 365 116: in that way maybe we can get some customers to invest and to buy bundles because they will minimize their risks
+[7:29 AM, 9/24/2024] +40 770 365 116: maybe one business give more dividend and the other less
+[7:29 AM, 9/24/2024] +40 770 365 116: so he have a stable percentage of dividend
+[7:30 AM, 9/24/2024] Marko R: yes, I think it is possible
+[7:31 AM, 9/24/2024] +40 770 365 116: and we can also gain more if they buy bundles because we will get the commision from all sold tokens
+[7:31 AM, 9/24/2024] +40 770 365 116: we can give commision to the affiliates to you and to me
+[7:31 AM, 9/24/2024] +40 770 365 116: so we gain all
+[7:32 AM, 9/24/2024] Marko R: Ok good
+[7:32 AM, 9/24/2024] +40 770 365 116: i mean to me from my customers tokens
+[7:32 AM, 9/24/2024] +40 770 365 116: from my own tokens i dont need commision
+[7:33 AM, 9/24/2024] +40 770 365 116: do you sent me the token address?
+This is 7000 tokens.
+[7:35 AM, 9/24/2024] +40 770 365 116: ok i saw its a list of codes in a notes
+[7:35 AM, 9/24/2024] +40 770 365 116: but what i can do with them?
+[7:36 AM, 9/24/2024] +40 770 365 116: i think its not helpfull yet to sell him tokens
+[7:37 AM, 9/24/2024] +40 770 365 116: JEDwVg5eWWdnjGtan6oXxP16VEVBLWSefrzEzuZL8RS4  1000
+[7:37 AM, 9/24/2024] +40 770 365 116: what does balance 1000 mean?
+[7:45 AM, 9/24/2024] Marko R: balance of 1000 means that each token account holds 1000 units of the respective token.
+In short word, this means that account holds 1000 units of the token it's associated with.
+how many units of that particular token are stored in that token account.
+[7:46 AM, 9/24/2024] +40 770 365 116: what is the smallest amount which an investor can invest to buy tokens?
+[7:47 AM, 9/24/2024] Marko R: In Solana, when you create or receive tokens, they are stored in token accounts. Each token account is linked to a specific type of token.
+For example, token represents movie tickets.so balance 1000 means you own 1000 movie tickets stored in that account.
+[7:48 AM, 9/24/2024] +40 770 365 116: ok , i dont understand that - its like spanish or chinese language for me
+[7:48 AM, 9/24/2024] +40 770 365 116: i think useless that i will ask more because i dont understand it
+😀
+😂
+[7:49 AM, 9/24/2024] +40 770 365 116: if someone wants to invest 20 usd its posible?
+[7:49 AM, 9/24/2024] Marko R: Do you knwo spanish and chinese?
+[7:49 AM, 9/24/2024] +40 770 365 116: no
+[7:49 AM, 9/24/2024] +40 770 365 116: german , english and romanian only
+[7:50 AM, 9/24/2024] +40 770 365 116: are you in usa right now?
+[7:51 AM, 9/24/2024] Marko R: No. I am from Ukraine
+[7:51 AM, 9/24/2024] +40 770 365 116: i know that
+[7:51 AM, 9/24/2024] +40 770 365 116: but i think you are not in ukraine actual
+[7:52 AM, 9/24/2024] Marko R: what's mean?
+🤣
+[7:52 AM, 9/24/2024] +40 770 365 116: i am just curious
+[7:53 AM, 9/24/2024] +40 770 365 116: if someone wants to invest 20 usd its posible?
+[7:53 AM, 9/24/2024] Marko R: I travel a lot, but I don't live in other countries.
+[7:53 AM, 9/24/2024] Marko R: Yeah possible
+[7:54 AM, 9/24/2024] +40 770 365 116: ok
+[7:54 AM, 9/24/2024] +40 770 365 116: some persons asked me because they are afraid to invest 100 usd
+[7:54 AM, 9/24/2024] +40 770 365 116: they are afraid that the coin will disappear fast
+[7:54 AM, 9/24/2024] +40 770 365 116: they said it will not work
+[7:54 AM, 9/24/2024] Marko R: no worries
+[7:54 AM, 9/24/2024] Marko R: It will work good
+[7:55 AM, 9/24/2024] +40 770 365 116: i hope so
+[7:55 AM, 9/24/2024] Marko R: And when can I receive second payment?
+When can you go to ATM?
+[7:55 AM, 9/24/2024] +40 770 365 116: i need to see because i cant get out the money from the company
+[7:55 AM, 9/24/2024] +40 770 365 116: my daughter will kill me
+[7:55 AM, 9/24/2024] +40 770 365 116: she dont trust in this
+[7:56 AM, 9/24/2024] +40 770 365 116: so i need to find other solutions'
+[7:56 AM, 9/24/2024] +40 770 365 116: but i am working on it
+[7:57 AM, 9/24/2024] +40 770 365 116: we have a very nice german sistem in our company but sometimes its crazy because one cant do anything without the other
+[7:57 AM, 9/24/2024] Marko R: What can I help you?
+[7:58 AM, 9/24/2024] +40 770 365 116: you can make the selling website fast and we can sell and make money
+[7:58 AM, 9/24/2024] +40 770 365 116: so you also can make money fast
+[7:58 AM, 9/24/2024] +40 770 365 116: and me also
+[7:58 AM, 9/24/2024] +40 770 365 116: be sure you will get a lot of money from that
+[7:59 AM, 9/24/2024] Marko R: yes I am sure
+[7:59 AM, 9/24/2024] +40 770 365 116: if this is working in one year you will have so much money that i need to marry you😂
+[8:00 AM, 9/24/2024] +40 770 365 116: when we made the contract i had a wrong idea of that
+[8:00 AM, 9/24/2024] +40 770 365 116: i thought the coins wil be ready to sell
+[8:00 AM, 9/24/2024] +40 770 365 116: i was not thinking about the selling website
+[8:00 AM, 9/24/2024] +40 770 365 116: but it was my mistake
+[8:01 AM, 9/24/2024] Marko R: We have to develop website
+[8:01 AM, 9/24/2024] +40 770 365 116: but step by step i try to learn how its working
+[8:01 AM, 9/24/2024] +40 770 365 116: yes i got that already
+[8:01 AM, 9/24/2024] +40 770 365 116: and i understand it now
+[8:01 AM, 9/24/2024] Marko R: Okay good
+[8:01 AM, 9/24/2024] +40 770 365 116: first at all i thought the coins will be made and listed anywhere and thats it
+[8:01 AM, 9/24/2024] +40 770 365 116: i was thinking about existing selling plattforms
+[8:02 AM, 9/24/2024] +40 770 365 116: that was my mistake
+[8:02 AM, 9/24/2024] +40 770 365 116: so i thought the coins are made and can be sold imediatly
+[8:02 AM, 9/24/2024] +40 770 365 116: thats why i also already startet to talk with posible investors
+[8:02 AM, 9/24/2024] +40 770 365 116: to early ofcourse , i see now
+[8:02 AM, 9/24/2024] Marko R: We must have your own site for coin
+[8:03 AM, 9/24/2024] +40 770 365 116: yes i know now
+[8:03 AM, 9/24/2024] +40 770 365 116: but if we have our own website for the coins how a buyer can sell them after?
+[8:03 AM, 9/24/2024] +40 770 365 116: how they can trade?
+[8:03 AM, 9/24/2024] +40 770 365 116: we still have to list them someday anywhere
+[8:03 AM, 9/24/2024] Marko R: in our website they can do it
+[8:04 AM, 9/24/2024] +40 770 365 116: only that?
+[8:04 AM, 9/24/2024] +40 770 365 116: i saw websites which have hundrets of coins
+[8:04 AM, 9/24/2024] +40 770 365 116: and you can buy and sell whenever you want and buy other coins and sell and so on
+[8:06 AM, 9/24/2024] +40 770 365 116: so if someone sell like examble dogcoin and want to buy our coin he cant to that directly in one website?
+[8:06 AM, 9/24/2024] +40 770 365 116: or if he want to sell our coin and buy dogcoin?
+[8:08 AM, 9/24/2024] Marko R: yeah, it's possible in one website.
+[8:08 AM, 9/24/2024] +40 770 365 116: ok
+[8:08 AM, 9/24/2024] +40 770 365 116: lets see
+[8:09 AM, 9/24/2024] +40 770 365 116: in your place its middnight i think you will sleep soon so we will talk again in another day
+[8:09 AM, 9/24/2024] +40 770 365 116: or 12 noon
+[8:10 AM, 9/24/2024] +40 770 365 116: in slak its showing you local time
+😀
+[8:10 AM, 9/24/2024] +40 770 365 116: could be usa
+[8:11 AM, 9/24/2024] +40 770 365 116: or malaysia
+[8:12 AM, 9/24/2024] Marko R: I don't know how it's set, but I think it's a default value that's set automatically when I install it.
+[8:13 AM, 9/24/2024] +40 770 365 116: i see
+[8:13 AM, 9/24/2024] +40 770 365 116: but thats why i asked if you are in ukraine now
+[8:13 AM, 9/24/2024] Marko R: Ah~, understand
+😀
+[8:15 AM, 9/24/2024] +40 770 365 116: by the way you are really pretty
+[8:18 AM, 9/24/2024] Marko R: Thank you
+[8:25 AM, 9/24/2024] +40 770 365 116: whats the name of the coins or its not fixed yet?
+[8:26 AM, 9/24/2024] +40 770 365 116: everybody is asking me that
+[8:26 AM, 9/24/2024] +40 770 365 116: when i say stefan coin they are just laughing
+[8:43 AM, 9/24/2024] Marko R: not fixed yet
+[8:43 AM, 9/24/2024] +40 770 365 116: so how we schould name the coin?
+[8:44 AM, 9/24/2024] Marko R: solana coin-okay?
+[8:44 AM, 9/24/2024] +40 770 365 116: solana is existing already
+[8:45 AM, 9/24/2024] +40 770 365 116: that could give troubles if we name it same
+[8:45 AM, 9/24/2024] Marko R: SPL
+[8:45 AM, 9/24/2024] Marko R: ok?
+[8:45 AM, 9/24/2024] +40 770 365 116: and in long ?
+[8:46 AM, 9/24/2024] Marko R: Solana Program Library
+[8:46 AM, 9/24/2024] +40 770 365 116: yes i think that is good
+[8:46 AM, 9/24/2024] Marko R: Ok
+[9:09 AM, 9/24/2024] +40 770 365 116: Token
+Splash (SPL
+[9:09 AM, 9/24/2024] +40 770 365 116: i think we have to change
+[9:09 AM, 9/24/2024] +40 770 365 116: its existing already
+[9:12 AM, 9/24/2024] Marko R: EcoCoin, GreenToken, HealthCoin, RewardPoints, SPLToken
+[9:12 AM, 9/24/2024] +40 770 365 116: green token can be for our first customer who make the green energy
+[9:12 AM, 9/24/2024] +40 770 365 116: Health for hotel?
+[9:13 AM, 9/24/2024] +40 770 365 116: solana based hotel investment  SBHI
+[9:13 AM, 9/24/2024] +40 770 365 116: ??
+[9:13 AM, 9/24/2024] Marko R: yes
